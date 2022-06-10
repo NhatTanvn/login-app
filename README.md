@@ -8,9 +8,9 @@
 ```ssh
     yarn create react-app login-app --template typescript
 ```
-### Adding Scss 
+### Adding Sass 
 ```ssh
-    yarn add scss
+    yarn add sass
 ```
 ### Adding TypeScript
 ```ssh
